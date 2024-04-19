@@ -4,7 +4,7 @@ I work as a Data & Analytics Analyst within the Financial Services Industry. I h
 
 I really enjoy connecting with like-minded data people, sharing my skills, experience and personal journey. I create content around tech, data, career, productivity and life in general.
 
-My Tableau Projects are at - Ansh Gupta - Tableau Public
+My Tableau Projects are at - https://public.tableau.com/app/profile/ansh.gupta0110
 
 MY Linkin Profile - https://www.linkedin.com/in/ansh-gupta0110/
 
